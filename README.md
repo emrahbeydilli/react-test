@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The Complete Web Developer in 2022: Zero to Mastery Udemy: Exercise: Building a React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
